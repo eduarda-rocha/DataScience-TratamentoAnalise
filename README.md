@@ -1,2 +1,2 @@
 # DataScience-TratamentoAnalise
-* 💻 Curso Alura: Python Pnadas - Tratando e analisando dados
+* 💻 Curso Alura: Python Pandas - Tratando e analisando dados
